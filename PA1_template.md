@@ -168,4 +168,5 @@
     timeSeriesPlot
 ```
 
-![](PA1_template_files/figure-html/unnamed-chunk-5-1.png)
+![](PA1_template_files/figure-html/unnamed-chunk-5-1.png) 
+
